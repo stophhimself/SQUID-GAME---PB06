@@ -9,7 +9,8 @@ Built as a **social media analytics portfolio project**, it demonstrates **text-
 
 ## 👀 Dashboard Preview
 
-![Squid Game Twitter Dashboard Preview](Screenshots/squid_game_twitter_dashboard.png)
+ <img width="380" height="213" alt="Capture d&#39;écran 2026-01-05 201420" src="https://github.com/user-attachments/assets/db7f5268-220e-478c-b362-32e0ac99e7ee" />
+
 
 📸 *Screenshot captured on January 5, 2026*
 
